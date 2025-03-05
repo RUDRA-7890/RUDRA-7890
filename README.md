@@ -17,7 +17,7 @@
 **Tools & Technologies:** Jupyter Notebook, Excel
 ## Connect with Me
 
-* [LinkedIn](https:www.linkedin.com/in/rudra-shiva-kumar-pollapu-69b374196)
+* [LinkedIn](https://www.linkedin.com/in/rudra-shiva-kumar-pollapu-69b374196/)
 * [Email](mailto:rudrashivakumarpollapu@gmail.com)
 
 <!---
